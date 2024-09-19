@@ -23,6 +23,7 @@ Hardware Overview:
 Development Tools and Documentation:
   - Control Code: The full code for Nefisbot and its remote control system will be shared, allowing developers to explore and customize its behavior.
   - Prototype Videos: Videos documenting the various stages of development and testing of Nefisbot will be shared, providing a comprehensive view of the robot in action.
+      - first video test : https://youtu.be/lnt-nl7zs1g?si=uuL5EqrMaeEKh4t5
 
 Potential for Future Development:
   - The first version of Nefisbot represents a foundational platform for future iterations. Its modular design allows for easy enhancements in both hardware and software, such as adding
