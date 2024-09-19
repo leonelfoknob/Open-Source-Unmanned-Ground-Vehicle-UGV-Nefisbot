@@ -34,3 +34,7 @@ Applications:
   - Exploration and Surveillance: Nefisbot's compact size and maneuverability make it ideal for exploring unknown terrains, whether in urban settings, natural environments, or hazardous
     areas.
 With its open-source foundation and versatile capabilities, Nefisbot is positioned to become a powerful tool in both scientific and military fields, contributing to research, safety, and exploration missions. The project’s future growth relies on community engagement and further iterations, making Nefisbot a promising platform for innovation.
+
+*************************************************************************************************************************************************************************************
+
+With its open-source foundation and versatile capabilities, Nefisbot is positioned to become a powerful tool in both scientific and military fields, contributing to research, safety, and exploration missions. The project’s future growth relies on community engagement and further iterations, making Nefisbot a promising platform for innovation.
