@@ -1,4 +1,5 @@
 # Open-Source-Unmanned-Ground-Vehicle-UGV-Nefisbot
+![nf_bot_1](https://github.com/user-attachments/assets/95f5c68b-ca55-4d71-bbae-d8eda836c605)
 
 Nefisbot is a versatile, open-source unmanned ground vehicle (UGV) designed for both military and scientific applications. Built for tasks such as surveillance, exploration, and training, Nefisbot is a modular robot capable of operating in autonomous and semi-autonomous modes, offering reliability in challenging environments.
 
